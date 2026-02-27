@@ -66,8 +66,8 @@ Projet/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-username/coinafrique-scraper.git
-cd coinafrique-scraper
+git clone https://github.com/Mr-Personne5/project_scraping_streamlit.git
+cd project_scraping_streamlit
 ```
 
 ### 2. Créer et activer l'environnement virtuel
@@ -181,4 +181,4 @@ CREATE TABLE annonces (
 
 ## Auteurs
 
-Projet réalisé dans le cadre du Master IA — Bloc 2 : Collecte de données.
+Projet réalisé par Djiba Kaba dans le cadre du Master IA — Bloc 2 : Collecte de données.

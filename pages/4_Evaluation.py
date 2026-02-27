@@ -4,7 +4,7 @@ st.title("📝 Formulaire d'évaluation")
 st.markdown("Votre avis nous aide à améliorer cette application. Merci de prendre 2 minutes.")
 
 GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeJyibMxp2Sk9ouCRZaipp9wXiTXEKbGZPwyJ7FWyX83fIlCw/viewform?usp=publish-editor"
-KOBO_FORM_URL   = "https://ee.kobotoolbox.org/x/VOTRE_KOBO_ID"
+KOBO_FORM_URL   = "https://ee.kobotoolbox.org/x/YpaAZ32s"
 
 col1, col2 = st.columns(2)
 
