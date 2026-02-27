@@ -1,0 +1,16 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Bases de données (générées dynamiquement)
+*.db
+
+# Streamlit
+.streamlit/secrets.toml
